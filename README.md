@@ -4,8 +4,7 @@ Beginner
 <html>
 <head> 
 <meta charset="UTF-8">
-  <title> My Website 
-  </title>
+  <title> My Website </title>
 </head>
 <body>
   <h1> Website Homepage </h1>
